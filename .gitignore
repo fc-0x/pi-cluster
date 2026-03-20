@@ -1,0 +1,10 @@
+.env
+*.key
+*.pem
+*.log
+secrets/
+config.yaml
+*.yaml
+!k3s/
+*.conf
+*.crt
