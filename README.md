@@ -1,4 +1,4 @@
-# Pi Cluster
+# Pi Cluster (SCRAPED IDEA)
 
 A 6-node Raspberry Pi cluster running K3s (lightweight Kubernetes) with Grafana monitoring.
 
